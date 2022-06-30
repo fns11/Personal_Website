@@ -44,7 +44,7 @@ elif choose == "Blog":
         "icon": {"color": "orange", "font-size": "20px"}, 
         "nav-link": {"font-size": "16px", "text-align": "left", "margin":"0px", "--hover-color": "#eee"},
         "nav-link-selected": {"background-color": "#080000"},
-        },orientation='horizontal'
+        },orientation='horizontal'''
         ) 
 
         st.write('')
